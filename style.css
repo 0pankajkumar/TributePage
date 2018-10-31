@@ -1,0 +1,55 @@
+footer {
+  text-align: right;
+}
+#bigger-quote {
+  font-family:"Sunflower", sans-serif;
+  padding: 25px;
+  text-align: center;
+  font-size: 30px;
+  margin-left: 25%;
+}
+body {
+  font-family:"Sunflower", sans-serif;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#quote {
+  font-family:"Sunflower", sans-serif;
+   font-size: 15px;
+   margin-left: 25%;
+   margin-right: 25%;
+}
+h2 {
+  font-family:"Sunflower", sans-serif;
+   font-size: 20px;
+   margin-left: 20%;
+}
+p {
+   
+   font-family:"Sunflower", sans-serif;
+   font-size: 15px;
+   text-align: justify;
+   font-weight: lighter;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+#title {
+   font-family:"Sunflower", sans-serif;
+   font-size: 3em;
+   text-align: center;
+   font-weight: 900;
+}
+#img-caption {
+  font-family:"Sunflower", sans-serif;
+   text-align: center;
+   font-weight: lighter;
+}
+#image {
+  max-width: 25vw;
+  display: block;
+  height: auto;
+  position: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 35%;
+}
