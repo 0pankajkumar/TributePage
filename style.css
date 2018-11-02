@@ -53,3 +53,12 @@ p {
   margin-right: auto;
   border-radius: 35%;
 }
+#tools-used {
+  position: fixed;
+  top: 20%;
+  right: 10%;
+}
+#inner {
+  width: 100%;
+  margin: 0, auto;
+}
